@@ -4,7 +4,7 @@ from django.shortcuts import render
 from bs4 import BeautifulSoup
 from . import models
 
-BAS_CRAIGSLIST_URL = 'https://losangeles.craigslist.org/search/?query={}'
+BAS_CRAIGSLIST_URL = 'https://ahmedabad.craigslist.org/search/?query={}'
 BAS_IMAGE_URL = 'https://images.craigslist.org/{}_300x300.jpg'
 
 # Create your views here.
